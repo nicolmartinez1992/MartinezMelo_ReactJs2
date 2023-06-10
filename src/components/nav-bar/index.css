@@ -1,0 +1,38 @@
+.container{
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+}
+
+.listItem{
+font-size: x-large;
+}
+
+.listItem:hover{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+.itemName{
+    text-decoration: none;
+}
+
+.itemName:visited{
+    color: inherit;
+
+}
+
+.cart{
+    margin-right: 50px;
+}
+
