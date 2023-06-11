@@ -1,0 +1,9 @@
+.titleContainer{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.title{
+    font-size: xx-large;
+}

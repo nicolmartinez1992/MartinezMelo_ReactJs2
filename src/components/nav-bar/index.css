@@ -10,16 +10,17 @@
     justify-content: space-between;
     list-style: none;
     align-items: center;
+    margin-right: 30px;
 }
 
 .listItem{
 font-size: x-large;
+padding: 5px;
 }
 
 .listItem:hover{
     background-color: white;
     color: black;
-    padding: 5px;
     border-radius: 2px;
 }
 
@@ -33,6 +34,6 @@ font-size: x-large;
 }
 
 .cart{
-    margin-right: 50px;
+    font-size: x-large;
 }
 
